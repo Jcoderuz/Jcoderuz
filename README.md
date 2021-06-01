@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @Jcoderuz
-Android Developer
+
+Android & Frontend Developer
